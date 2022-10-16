@@ -49,7 +49,7 @@ A brief explanation on the basic workflow of the application.
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/arlbibek/dVoting.git
+   git clone https://github.com/PRATHIU-VISWAK/voting.git
    cd dVoting
    ```
 
@@ -99,6 +99,3 @@ Possible features to add/improve within the app.
 
 _Feel free to contribute._
 
----
-
-Made with ❤️ by [Bibek Aryal](https://bibeka.com.np/).
